@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "thesuffering:blocks/driltop",
+    "up": "thesuffering:blocks/graypanel",
+    "north": "thesuffering:blocks/drillside",
+    "east": "thesuffering:blocks/drillside",
+    "south": "thesuffering:blocks/drillside",
+    "west": "thesuffering:blocks/drillside",
+    "particle": "thesuffering:blocks/driltop"
+  }
+}

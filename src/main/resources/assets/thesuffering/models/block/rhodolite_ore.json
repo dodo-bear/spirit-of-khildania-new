@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "thesuffering:blocks/rhodoliteore",
+    "up": "thesuffering:blocks/rhodoliteore",
+    "north": "thesuffering:blocks/rhodoliteore",
+    "east": "thesuffering:blocks/rhodoliteore",
+    "south": "thesuffering:blocks/rhodoliteore",
+    "west": "thesuffering:blocks/rhodoliteore",
+    "particle": "thesuffering:blocks/rhodoliteore"
+  }
+}

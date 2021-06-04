@@ -1,0 +1,10 @@
+{
+  "parent": "thesuffering:custom/synthesizer",
+  "textures": {
+    "all": "thesuffering:blocks/graypanel",
+    "particle": "thesuffering:blocks/graypanel",
+    "0": "thesuffering:blocks/graypanel",
+    "1": "thesuffering:blocks/boxtexturepanel1",
+    "2": "thesuffering:blocks/mixerbowltexture"
+  }
+}

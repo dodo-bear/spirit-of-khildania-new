@@ -1,0 +1,8 @@
+{
+  "parent": "thesuffering:custom/scilight",
+  "textures": {
+    "all": "thesuffering:blocks/lighttexture",
+    "particle": "thesuffering:blocks/lighttexture",
+    "0": "thesuffering:blocks/lighttexture"
+  }
+}

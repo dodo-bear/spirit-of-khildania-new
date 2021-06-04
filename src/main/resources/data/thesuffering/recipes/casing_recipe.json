@@ -1,0 +1,23 @@
+{
+  "group": "thesuffering",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "thesuffering:gelatin"
+    },
+    "2": {
+      "item": "thesuffering:gelatin"
+    },
+    "4": {
+      "item": "thesuffering:gelatin"
+    }
+  },
+  "result": {
+    "item": "thesuffering:gelatin_casing",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "group": "thesuffering",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 15,
+  "ingredient": {
+    "item": "thesuffering:rhodolite_ore"
+  },
+  "result": {
+    "item": "thesuffering:rhodolite_ingot"
+  }
+}

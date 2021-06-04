@@ -1,0 +1,10 @@
+{
+  "parent": "thesuffering:custom/resp_plugger",
+  "textures": {
+    "all": "thesuffering:blocks/texture3",
+    "particle": "thesuffering:blocks/texture3",
+    "0": "thesuffering:blocks/texture",
+    "1": "thesuffering:blocks/texture2",
+    "2": "thesuffering:blocks/texture3"
+  }
+}

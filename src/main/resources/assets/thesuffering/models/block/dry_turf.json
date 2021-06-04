@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "thesuffering:blocks/dryturf",
+    "up": "thesuffering:blocks/dryturf",
+    "north": "thesuffering:blocks/dryturf",
+    "east": "thesuffering:blocks/dryturf",
+    "south": "thesuffering:blocks/dryturf",
+    "west": "thesuffering:blocks/dryturf",
+    "particle": "thesuffering:blocks/dryturf"
+  }
+}

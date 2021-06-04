@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cryochamberbottomtexture",
+        "1": "cryochambersidetexture",
+        "2": "cryochembertoptexture",
+        "3": "cryochamberbacktexture",
+        "4": "cryochamberfronttexture"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "thesuffering:blocks/graypanel",
+    "top": "thesuffering:blocks/graypanel",
+    "side": "thesuffering:blocks/graypanel"
+  }
+}

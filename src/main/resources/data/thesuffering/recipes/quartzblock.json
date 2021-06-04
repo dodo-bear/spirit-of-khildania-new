@@ -1,0 +1,22 @@
+{
+  "group": "thesuffering",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "thesuffering:ordonian_quartz"
+    },
+    {
+      "item": "thesuffering:ordonian_quartz"
+    },
+    {
+      "item": "thesuffering:ordonian_quartz"
+    },
+    {
+      "item": "thesuffering:ordonian_quartz"
+    }
+  ],
+  "result": {
+    "item": "minecraft:smooth_quartz",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "thesuffering:blocks/compactturf",
+    "up": "thesuffering:blocks/compactturf",
+    "north": "thesuffering:blocks/compactturf",
+    "east": "thesuffering:blocks/compactturf",
+    "south": "thesuffering:blocks/compactturf",
+    "west": "thesuffering:blocks/compactturf",
+    "particle": "thesuffering:blocks/compactturf"
+  }
+}

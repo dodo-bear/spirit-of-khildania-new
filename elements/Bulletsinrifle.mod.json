@@ -1,0 +1,26 @@
+{
+  "_fv": 18,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:integer:Bulletsrifle> charges left.",
+          "color": {
+            "value": -16730130,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "VoltBurstRifleCanFire"
+          },
+          "name": "<VAR:integer:Bulletsrifle> charges left.",
+          "x": 311,
+          "y": 223
+        }
+      }
+    ],
+    "baseTexture": ""
+  }
+}

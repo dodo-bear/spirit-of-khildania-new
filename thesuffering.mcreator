@@ -1,0 +1,842 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "StabilizerGUI",
+      "type": "gui",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stabilizer_gui"
+    },
+    {
+      "name": "RegionalStabilizer",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "regional_stabilizer"
+    },
+    {
+      "name": "SmallCapsule",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "small_capsule"
+    },
+    {
+      "name": "TheSuffering",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_suffering"
+    },
+    {
+      "name": "MediumCapsule",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "medium_capsule"
+    },
+    {
+      "name": "MetalPanel",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "metal_panel"
+    },
+    {
+      "name": "MetalStairs",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "metal_stairs"
+    },
+    {
+      "name": "ThinMetalPanel",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thin_metal_panel"
+    },
+    {
+      "name": "MetalDoor",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "metal_door"
+    },
+    {
+      "name": "ModuleShell",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "module_shell"
+    },
+    {
+      "name": "SynthesizerGUI",
+      "type": "gui",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "synthesizer_gui"
+    },
+    {
+      "name": "MaterialSynthesisChamber",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "material_synthesis_chamber"
+    },
+    {
+      "name": "ManipulationModule",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manipulation_module"
+    },
+    {
+      "name": "BasicCryopod",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basic_cryopod"
+    },
+    {
+      "name": "DryTurf",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dry_turf"
+    },
+    {
+      "name": "Datapad",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "datapad"
+    },
+    {
+      "name": "CompactedDryTurf",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "compacted_dry_turf"
+    },
+    {
+      "name": "OmnurianQuartz",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ordonian_quartz"
+    },
+    {
+      "name": "Quartzblock",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "quartzblock"
+    },
+    {
+      "name": "OrdonianWastes",
+      "type": "biome",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ordonian_wastes"
+    },
+    {
+      "name": "Ordonia",
+      "type": "dimension",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ordonia",
+      "metadata": {
+        "ep": false
+      }
+    },
+    {
+      "name": "OrdonianQuartzOre",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ordonian_quartz_ore"
+    },
+    {
+      "name": "OrdonianLight",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ordonian_light"
+    },
+    {
+      "name": "LightRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_recipe"
+    },
+    {
+      "name": "OrdonianHouseChest",
+      "type": "loottable",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ordonian_house_chest"
+    },
+    {
+      "name": "CrackedMetalPanel",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cracked_metal_panel"
+    },
+    {
+      "name": "OrdonianHouse",
+      "type": "structure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ordonian_house"
+    },
+    {
+      "name": "DevDimTranspRightClickedInAir",
+      "type": "procedure",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dev_dim_transp_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DevDimTranspRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dev_dim_transp_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DevDimTransp",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dev_dim_transp"
+    },
+    {
+      "name": "VoltBurstRifleCanFire",
+      "type": "procedure",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "volt_burst_rifle_can_fire",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VoltBurstRifleFire",
+      "type": "procedure",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "volt_burst_rifle_fire",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bulletsinrifle",
+      "type": "overlay",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bulletsinrifle"
+    },
+    {
+      "name": "Plasmablast",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plasmablast"
+    },
+    {
+      "name": "VoltBurstRifle",
+      "type": "gun",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "volt_burst_rifle"
+    },
+    {
+      "name": "PowerCell",
+      "type": "item",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "power_cell"
+    },
+    {
+      "name": "PowerCellUse",
+      "type": "procedure",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "power_cell_use",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Seer",
+      "type": "potion",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seer"
+    },
+    {
+      "name": "HallucinationDisplayOverlayIngame",
+      "type": "procedure",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hallucination_display_overlay_ingame",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Hallucination",
+      "type": "overlay",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hallucination"
+    },
+    {
+      "name": "EnergizedLapizEat",
+      "type": "procedure",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "energized_lapiz_eat",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "EnergizedLapiz",
+      "type": "food",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "energized_lapiz"
+    },
+    {
+      "name": "CoreDriller",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "core_driller"
+    },
+    {
+      "name": "CoreDrillGUIWhileThisGUIIsOpenTick",
+      "type": "procedure",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "core_drill_gui_while_this_gui_is_open_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CoreDrillGUI",
+      "type": "gui",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "core_drill_gui"
+    },
+    {
+      "name": "KhildanianSerumFoodEaten",
+      "type": "procedure",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "khildanian_serum_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "KhildanianSerum",
+      "type": "food",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "khildanian_serum"
+    },
+    {
+      "name": "Gelatin",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gelatin"
+    },
+    {
+      "name": "LapizChunk",
+      "type": "item",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lapiz_chunk"
+    },
+    {
+      "name": "ChunkRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chunk_recipe"
+    },
+    {
+      "name": "SynthesizerGUIWhileThisGUIIsOpenTick",
+      "type": "procedure",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "synthesizer_gui_while_this_gui_is_open_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "VoltBurstPistol",
+      "type": "gun",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "volt_burst_pistol"
+    },
+    {
+      "name": "OnCapsuleUsed",
+      "type": "procedure",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "on_capsule_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StartDiseaseEpisode",
+      "type": "procedure",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "start_disease_episode",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DiseaseManagerOnTick",
+      "type": "procedure",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "disease_manager_on_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RunDiseaseEpisode",
+      "type": "procedure",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "run_disease_episode",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GelatinCasing",
+      "type": "item",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gelatin_casing"
+    },
+    {
+      "name": "CasingRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "casing_recipe"
+    },
+    {
+      "name": "DevStartEpisode",
+      "type": "item",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dev_start_episode"
+    },
+    {
+      "name": "CapsuleCase",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "capsule_case"
+    },
+    {
+      "name": "RhodoliteIngot",
+      "type": "item",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rhodolite_ingot"
+    },
+    {
+      "name": "CapsuleCaseRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "capsule_case_recipe"
+    },
+    {
+      "name": "RhodoliteOre",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rhodolite_ore"
+    },
+    {
+      "name": "RhodoliteSmelting",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rhodolite_smelting"
+    },
+    {
+      "name": "PistolRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pistol_recipe"
+    },
+    {
+      "name": "WeakHerbalPaste",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "weak_herbal_paste"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "Stage",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0"
+    },
+    {
+      "name": "TimesinceLastepisode",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0"
+    },
+    {
+      "name": "Story",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0"
+    },
+    {
+      "name": "Bulletsrifle",
+      "type": "number",
+      "scope": "player_lifetime",
+      "value": "0"
+    },
+    {
+      "name": "Hastakentonic",
+      "type": "logic",
+      "scope": "player_persistent",
+      "value": "false"
+    },
+    {
+      "name": "IsInEpisode",
+      "type": "logic",
+      "scope": "player_persistent",
+      "value": "false"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.thesuffering.module_shell": "Module Shell",
+      "item.minecraft.splash_potion.effect.seer": "Splash Seer",
+      "item.thesuffering.plasmablast": "Plasmablast",
+      "item.thesuffering.energized_lapiz": "Energized Lapiz",
+      "item.minecraft.lingering_potion.effect.seer": "Lingering Seer",
+      "itemGroup.tabthe_suffering": "The Suffering",
+      "item.thesuffering.medium_capsule": "Medium AlleMed Capsule",
+      "block.thesuffering.metal_panel": "Metal Panel",
+      "item.thesuffering.rhodolite_ingot": "Rhodolite Ingot",
+      "block.thesuffering.dry_turf": "Dry Turf",
+      "item.thesuffering.gelatin_casing": "Gelatin Casing",
+      "item.minecraft.tipped_arrow.effect.seer": "Arrow of Seer",
+      "block.thesuffering.ordonian_quartz_ore": "Ordonian Quartz Ore",
+      "item.thesuffering.datapad": "Datapad",
+      "item.thesuffering.ordonian_quartz": "Ordonian Quartz",
+      "block.thesuffering.basic_cryopod": "Basic Cryopod",
+      "block.thesuffering.metal_door": "Metal Door",
+      "block.thesuffering.regional_stabilizer": "Regional Stabilizer",
+      "item.thesuffering.volt_burst_pistol": "Volt Burst Pistol",
+      "block.thesuffering.compacted_dry_turf": "Compacted Dry Turf",
+      "item.thesuffering.ordonia": "Ordonia Portal Igniter",
+      "block.thesuffering.metal_stairs": "Metal Stairs",
+      "item.thesuffering.lapiz_chunk": "Lapiz Chunk",
+      "item.thesuffering.power_cell": "Power Cell",
+      "item.thesuffering.dev_dim_transp": "Dev Dim Transp",
+      "item.thesuffering.weak_herbal_paste": "Weak Herbal Paste",
+      "block.thesuffering.thin_metal_panel": "Thin Metal Panel",
+      "block.thesuffering.core_driller": "Core Drill",
+      "item.thesuffering.small_capsule": "Small AlleMed Capsule",
+      "block.thesuffering.cracked_metal_panel": "Cracked Metal Panel",
+      "item.thesuffering.volt_burst_rifle": "Volt Burst Rifle",
+      "item.thesuffering.capsule_case": "Capsule Case",
+      "item.thesuffering.dev_start_episode": "Dev Start Episode",
+      "biome.thesuffering.ordonian_wastes": "Ordonian Wastes",
+      "effect.seer": "Seer",
+      "item.thesuffering.manipulation_module": "Manipulation Module",
+      "item.thesuffering.gelatin": "Gelatin",
+      "block.thesuffering.rhodolite_ore": "Rhodolite Ore",
+      "block.thesuffering.material_synthesis_chamber": "Material Synthesis Chamber",
+      "item.thesuffering.khildanian_serum": "Khildanian Serum",
+      "block.thesuffering.ordonian_light": "Ordonian Light",
+      "item.minecraft.potion.effect.seer": "Seer"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "thesuffering",
+    "modName": "TheSuffering",
+    "version": "1.0.0",
+    "author": "Dodobear, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.thesuffering",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

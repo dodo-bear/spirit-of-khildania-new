@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "thesuffering:block/basic_cryopod"
+    },
+    "facing=east": {
+      "model": "thesuffering:block/basic_cryopod",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "thesuffering:block/basic_cryopod",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "thesuffering:block/basic_cryopod",
+      "y": 270
+    }
+  }
+}

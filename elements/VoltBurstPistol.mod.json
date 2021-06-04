@@ -1,0 +1,43 @@
+{
+  "_fv": 18,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "pistol",
+    "customModelName": "Normal",
+    "name": "Volt Burst Pistol",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TheSuffering"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "crossbow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "onRangedItemUsed": {
+      "name": "VoltBurstRifleFire"
+    },
+    "useCondition": {
+      "name": "VoltBurstRifleCanFire"
+    },
+    "bulletPower": 2.0,
+    "bulletDamage": 5.0,
+    "bulletKnockback": 0,
+    "bulletParticles": true,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Plasmablast"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

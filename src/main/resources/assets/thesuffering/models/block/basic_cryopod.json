@@ -1,0 +1,12 @@
+{
+  "parent": "thesuffering:custom/cryochamber",
+  "textures": {
+    "all": "thesuffering:blocks/cryochamberfronttexture",
+    "particle": "thesuffering:blocks/cryochamberfronttexture",
+    "0": "thesuffering:blocks/cryochamberbottomtexture",
+    "1": "thesuffering:blocks/cryochambersidetexture",
+    "2": "thesuffering:blocks/cryochembertoptexture",
+    "3": "thesuffering:blocks/cryochamberbacktexture",
+    "4": "thesuffering:blocks/cryochamberfronttexture"
+  }
+}

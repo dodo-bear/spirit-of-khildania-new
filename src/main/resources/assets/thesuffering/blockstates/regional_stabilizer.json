@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "thesuffering:block/regional_stabilizer"
+    },
+    "facing=east": {
+      "model": "thesuffering:block/regional_stabilizer",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "thesuffering:block/regional_stabilizer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "thesuffering:block/regional_stabilizer",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "thesuffering:block/regional_stabilizer",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "thesuffering:block/regional_stabilizer",
+      "x": 90
+    }
+  }
+}

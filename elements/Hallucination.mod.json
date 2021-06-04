@@ -1,0 +1,23 @@
+{
+  "_fv": 18,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "helmetfronthallu.png",
+          "use1Xscale": false,
+          "name": "helmetfronthallu.png",
+          "x": 182,
+          "y": 85
+        }
+      }
+    ],
+    "baseTexture": "",
+    "displayCondition": {
+      "name": "HallucinationDisplayOverlayIngame"
+    }
+  }
+}

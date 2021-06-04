@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "thesuffering:block/material_synthesis_chamber"
+    },
+    "facing=east": {
+      "model": "thesuffering:block/material_synthesis_chamber",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "thesuffering:block/material_synthesis_chamber",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "thesuffering:block/material_synthesis_chamber",
+      "y": 270
+    }
+  }
+}

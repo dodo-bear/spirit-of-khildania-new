@@ -1,0 +1,30 @@
+{
+  "group": "thesuffering",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "6  "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:redstone"
+    },
+    "3": {
+      "item": "minecraft:glass"
+    },
+    "4": {
+      "item": "thesuffering:rhodolite_ingot"
+    },
+    "5": {
+      "item": "thesuffering:ordonian_quartz"
+    },
+    "6": {
+      "item": "thesuffering:rhodolite_ingot"
+    }
+  },
+  "result": {
+    "item": "thesuffering:volt_burst_pistol",
+    "count": 1
+  }
+}
